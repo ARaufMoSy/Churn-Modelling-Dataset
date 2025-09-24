@@ -1,5 +1,5 @@
 Churn Modelling Dataset
-A practical machine learning project for predicting customer churn - perfect for data analysis students looking to build their portfolio!
+A practical machine learning project for predicting customer churn.
 
 What's This Project About?
 This repository contains a real-world dataset from a financial institution, perfect for practicing your data analysis and machine learning skills. You'll predict which customers are likely to leave the bank (churn) based on their demographics and banking behavior.
